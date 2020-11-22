@@ -1,6 +1,5 @@
 from scapy.all import *
 from scapy.layers.http import *
-from netfilterqueue import NetfilterQueue
 import os
 
 
